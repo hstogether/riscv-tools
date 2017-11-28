@@ -1,24 +1,24 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
-	url = https://github.com/riscv/riscv-isa-sim.git
+	url = https://github.com/hstogether/riscv-isa-sim.git
 [submodule "riscv-fesvr"]
 	path = riscv-fesvr
-	url = https://github.com/riscv/riscv-fesvr.git
+	url = https://github.com/hstogether/riscv-fesvr.git
 [submodule "riscv-pk"]
 	path = riscv-pk
-	url = https://github.com/riscv/riscv-pk.git
+	url = https://github.com/hstogether/riscv-pk.git
 [submodule "riscv-opcodes"]
 	path = riscv-opcodes
-	url = https://github.com/riscv/riscv-opcodes.git
+	url = https://github.com/hstogether/riscv-opcodes.git
 [submodule "riscv-tests"]
 	path = riscv-tests
-	url = https://github.com/riscv/riscv-tests.git
+	url = https://github.com/hstogether/riscv-tests.git
 [submodule "riscv-llvm"]
 	path = riscv-llvm
-	url = https://github.com/riscv/riscv-llvm.git
+	url = https://github.com/hstogether/riscv-llvm.git
 [submodule "riscv-gnu-toolchain"]
 	path = riscv-gnu-toolchain
-	url = https://github.com/riscv/riscv-gnu-toolchain.git
+	url = https://github.com/hstogether/riscv-gnu-toolchain.git
 [submodule "riscv-openocd"]
 	path = riscv-openocd
-	url = https://github.com/riscv/riscv-openocd.git
+	url = https://github.com/hstogether/riscv-openocd.git
