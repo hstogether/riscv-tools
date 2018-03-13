@@ -29,7 +29,7 @@ function build_project {
   echo "Configuring project $PROJECT"
   ../configure $* > build.log
   echo "Building project $PROJECT"
-  $MAKE -j6 >> build.log
+  $MAKE -j16 >> build.log
   echo "Installing project $PROJECT"
   $MAKE install >> build.log
   cd - > /dev/null
